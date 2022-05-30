@@ -20,4 +20,4 @@ Magic 8 ball with:
 
 ## Screenshot
 
-![Screenshot](https://cdn.discordapp.com/attachments/864583187634978870/980230474662289538/unknown.png)
+![Screenshot](https://cdn.discordapp.com/attachments/864583187634978870/980861924029915246/unknown.png)
